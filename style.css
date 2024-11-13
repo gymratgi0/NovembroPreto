@@ -1,0 +1,111 @@
+.body{
+    background-color: black;
+}
+
+*{
+    margin: 0;
+
+}
+
+.h1{
+    font-size: 70px;
+    color: rgb(255, 162, 0);
+}
+
+img{
+    width: 30vw;
+    height: 60vh;
+} 
+
+.alinhamento{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 98.9vw;
+    height: 100vh;
+}
+
+.size-div{
+    width: 500px;
+}
+
+.conteudo{
+    background-color: rgb(255, 162, 0);
+    width: 98.9vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.posicao{
+    width: 80vw;
+}
+
+.p{
+    font-size: 25px;
+}
+
+.h1-2{
+    font-size: 57px;
+}
+
+.conteudo-2{
+    background-color: white;
+    width: 98.9vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.caixinha{
+    width: 310px;
+    height: 290px;
+    background-color: rgb(255, 162, 0);
+    border-radius: 15px;
+    margin-right: 30px;
+}
+
+.alinhar{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+
+.h3{
+    font-size: 25px;
+    padding-top: 10px;
+}
+
+.p-2{
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+.interacao{
+    background-color: rgb(255, 162, 0);
+    width: 98.9vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.size-carousel{
+    width: 50vw;
+    height: 50vh;
+    margin-top: 30px;
+}
+
+.img-size{
+    width: 50px;
+    height: 300px;
+}
+
+.size-btn{
+    margin: -100px;
+}
